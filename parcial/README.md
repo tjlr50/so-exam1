@@ -103,6 +103,7 @@ Realice un script que cumpla las condiciones que se describen a continuación. P
 
 Primera prueba para descargar libros del gutenberg SIN forma aleatoria: Aprobado
 
+![][12]
 
 [][12]:images/1.PNG
 
