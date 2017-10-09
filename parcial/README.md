@@ -103,35 +103,44 @@ Realice un script que cumpla las condiciones que se describen a continuación. P
 
 Primera prueba para descargar libros del gutenberg SIN forma aleatoria: Aprobado
 
-![][12]:images/1.PNG
+
+[][12]:images/1.PNG
 
 
 Primera prueba para descargar libros del gutenberg de forma aleatoria: Aprobado
 
 Primero, creo un archivo prueba para generar aleatorios
 
-![][13]:images/2.PNG
+
+
+[][13]:images/2.PNG
 
 Segundo, incerto el valor aleatorio a la descarga del libro
 
-![][13]:images/3.PNG
+[][19]:images/3.PNG
 
-![][14]:images/4.PNG
+
+
+
+[][14]:images/4.PNG
  
  Por último, uso una dirección designada en la cual se va a reemplazar el libro en caso de que ya exista, por medio del siguiente Script:
  
- ![][15]:images/script.PNG
+ 
+[][15]:images/script.PNG
 
 
 Realizar esta acción cada 5 minutos usando crontab: Aprobado
 
 Edición contrab
 
-![][16]:images/configuracion.PNG
+
+[][16]:images/configuracion.PNG
 
 Configuración crontab
 
-![][17]:images/crontab.PNG
+
+[][17]:images/crontab.PNG
 
 --
 
@@ -141,16 +150,16 @@ EVIDENCIAS
 
 PRIMERA MUESTRA
 
-![][18]:images/primerCorreo.PNG
+[][18]:images/primerCorreo.PNG
 
-![][19]:images/Prueba1.PNG
+[][19]:images/Prueba1.PNG
 
 
 SEGUNDA MUESTRA
 
-![][20]:images/segundoCorreo.PNG
+[][20]:images/segundoCorreo.PNG
 
-![][21]:images/Prueba2.PNG
+[][21]:images/Prueba2.PNG
 
 
 ------------------------------------------------------
